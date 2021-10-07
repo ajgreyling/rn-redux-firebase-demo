@@ -13,6 +13,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Run With Example Data
 
+!! NB. config.js is ignored as it contains the Firebase credentials. Obtain directly from developer and save to src folder
+
 1. Run `yarn install` to install dependencies
 1. Run `yarn start`
 1. Visit `localhost:3000` to view and add todos (note the todos are shared among everyone)
